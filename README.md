@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/93/53/44/1000_F_293534421_bs43Coc5DAGWdFuZRSPhhgQ7NpHfhll8.jpg)](https://github.com/owlpsycho)
 <h1 align="center">Hi 👋, I'm Denis Bruno</h1>
-<h3 align="center">A passionate Full-Stack Developer from Italy</h3>
+<h3 align="center">Junior Full-Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D22AQEyvpkbTFGlHg/feedshare-shrink_800/0/1696076337774?e=1700092800&v=beta&t=YBY387z70vA2kTYTQgf0vt5TlitNQLf6MhiSIgF9Q8E">
 
 - 👨‍💻 All of my projects are available at [https://github.com/owlpsycho/Portfolio](https://github.com/owlpsycho/Portfolio)
